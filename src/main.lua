@@ -48,6 +48,10 @@ local bad_words = {
 	"semen",
 	"tetas",
 	"travesti",
+	"cojer",
+	"cojeme",
+	"violame",
+	"chupame",
 	-- English
 	"anus",
 	"arse",
