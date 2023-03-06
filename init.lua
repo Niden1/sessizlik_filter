@@ -22,7 +22,7 @@ DEALINGS IN THE SOFTWARE.
 ]]
 
 local init = minetest.get_us_time()
-local lane = minetest.get_modpath('x_filter')
+local lane = minetest.get_modpath('sessizlik_filter')
 
 dofile(lane.."/src/main.lua")
 
